@@ -1,4 +1,4 @@
-![logo](https://github.com/Saumya02Kumari/Saumya02/blob/main/Software%20Developer.png)
+![logo](https://github.com/Saumya02Kumari/Saumya02Kumari/blob/main/Software%20Developer.png)
 # 💫 Hi 👋, I'm Saumya Kumari
 **A passionate Software Developer || Fresher
 
